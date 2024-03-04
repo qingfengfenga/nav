@@ -1,8 +1,8 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/qingfengfenga/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "loading4",
   "showGithub": true,
   "title": "发现导航 - 精选实用导航网站",
   "description": "发现导航 - 精选实用导航网站",
@@ -57,6 +57,6 @@
     }
   ],
   "showLanguage": true,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": []
 }
